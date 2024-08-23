@@ -1,4 +1,4 @@
-# OpenWorld RPG With Ancient Environment.
+# OpenWorld RPG
 
 <h3 align="left">Game Feathers:</h3>
 

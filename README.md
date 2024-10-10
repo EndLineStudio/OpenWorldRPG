@@ -1,6 +1,6 @@
 # OpenWorld RPG
 
-<p align="center"> <img width="1080" src="https://github.com/user-attachments/assets/72b70016-a1d4-4997-8f68-f2582896ad6a"> </p>
+<p align="center"> <img width="1080" src="https://github.com/EndLineStudio/OpenWorldRPG/blob/main/OpenWorldRPG.gif"> </p>
 
 <h3 align="left">Game Genre:</h3>
 

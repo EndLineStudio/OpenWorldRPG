@@ -1,5 +1,7 @@
 # OpenWorld RPG
 
+[RPG](https://github.com/user-attachments/assets/4439b1e6-5275-4feb-8d83-270910e861e7)
+
 <h3 align="left">Game Genre:</h3>
 
 - 🎮 **Role-Play Game**
